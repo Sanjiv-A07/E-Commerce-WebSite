@@ -1,0 +1,13 @@
+.AddProduct{
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   height: 80vh;
+}
+.AddProduct form{
+   display: grid;
+   grid-template-columns: 200px 300px;
+
+}
+
+

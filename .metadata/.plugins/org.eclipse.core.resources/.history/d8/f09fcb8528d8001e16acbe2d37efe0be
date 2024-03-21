@@ -1,0 +1,5 @@
+package org.jsp.Hospital_Management.Dto;
+
+public class ResponceStructure {
+
+}

@@ -1,0 +1,5 @@
+package org.jsp.Hospital_Management.Repository;
+
+public class HospitalRepository {
+
+}

@@ -1,0 +1,11 @@
+.UserLogin {
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 80vh;
+
+}
+.UserLogin form{
+    box-shadow: 0px;
+}
